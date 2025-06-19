@@ -39,7 +39,7 @@ Each notebook showcases not just model training and evaluation, but also proper 
 
 Recommended environment: Python 3.9+ with Jupyter installed.
 
-bash
+bash:
 # (Optional) Create a virtual environment
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
@@ -54,10 +54,10 @@ jupyter notebook
 ⸻
 
 ## 📊 Demo Highlights
-	•	📈 Predicting numeric targets using regression (e.g., housing prices)
-	•	🔍 Classifying sentiments or labels from text
-	•	🧼 Text cleaning, tokenization, stopword removal
-	•	🧠 Model comparisons: Logistic Regression, Decision Trees, Random Forests
+•	📈 Predicting numeric targets using regression (e.g., housing prices)
+•	🔍 Classifying sentiments or labels from text
+•	🧼 Text cleaning, tokenization, stopword removal
+•	🧠 Model comparisons: Logistic Regression, Decision Trees, Random Forests
 
 ⸻
 
