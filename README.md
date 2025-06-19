@@ -54,10 +54,10 @@ jupyter notebook
 ⸻
 
 ## 📊 Demo Highlights
-•	📈 Predicting numeric targets using regression (e.g., housing prices)
-•	🔍 Classifying sentiments or labels from text
-•	🧼 Text cleaning, tokenization, stopword removal
-•	🧠 Model comparisons: Logistic Regression, Decision Trees, Random Forests
+    •	📈 Predicting numeric targets using regression (e.g., housing prices)
+    •	🔍 Classifying sentiments or labels from text
+    •	🧼 Text cleaning, tokenization, stopword removal
+    •	🧠 Model comparisons: Logistic Regression, Decision Trees, Random Forests
 
 ⸻
 
