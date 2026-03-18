@@ -51,7 +51,7 @@ pip install -r requirements.txt
 jupyter notebook
 
 
-⸻
+---
 
 ## Demo Highlights
     •	 Predicting numeric targets using regression (e.g., housing prices)
@@ -59,13 +59,13 @@ jupyter notebook
     •	 Text cleaning, tokenization, stopword removal
     •	 Model comparisons: Logistic Regression, Decision Trees, Random Forests
 
-⸻
+---
 
 ## License
 
 This project is released under the MIT License.
 
-⸻
+---
 
 ## Author
 
